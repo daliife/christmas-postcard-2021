@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/christmas-postcard-2021/static/css/main.4e80862a.chunk.css",
+    "main.js": "/christmas-postcard-2021/static/js/main.7291dd3a.chunk.js",
+    "main.js.map": "/christmas-postcard-2021/static/js/main.7291dd3a.chunk.js.map",
+    "runtime-main.js": "/christmas-postcard-2021/static/js/runtime-main.af082566.js",
+    "runtime-main.js.map": "/christmas-postcard-2021/static/js/runtime-main.af082566.js.map",
+    "static/css/2.943b4108.chunk.css": "/christmas-postcard-2021/static/css/2.943b4108.chunk.css",
+    "static/js/2.a01427c4.chunk.js": "/christmas-postcard-2021/static/js/2.a01427c4.chunk.js",
+    "static/js/2.a01427c4.chunk.js.map": "/christmas-postcard-2021/static/js/2.a01427c4.chunk.js.map",
+    "index.html": "/christmas-postcard-2021/index.html",
+    "static/css/2.943b4108.chunk.css.map": "/christmas-postcard-2021/static/css/2.943b4108.chunk.css.map",
+    "static/css/main.4e80862a.chunk.css.map": "/christmas-postcard-2021/static/css/main.4e80862a.chunk.css.map",
+    "static/js/2.a01427c4.chunk.js.LICENSE.txt": "/christmas-postcard-2021/static/js/2.a01427c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af082566.js",
+    "static/css/2.943b4108.chunk.css",
+    "static/js/2.a01427c4.chunk.js",
+    "static/css/main.4e80862a.chunk.css",
+    "static/js/main.7291dd3a.chunk.js"
+  ]
+}
