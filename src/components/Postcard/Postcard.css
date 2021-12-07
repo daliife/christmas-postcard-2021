@@ -1,6 +1,7 @@
 .atropos-banner {
   width: 100%;
 }
+.atropos-banner:hover { cursor: pointer; }
 .atropos-banner .atropos-inner {
   border-radius: 10px;
 }

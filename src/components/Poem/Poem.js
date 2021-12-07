@@ -9,12 +9,10 @@ const Poem = () => (
         una flor s’ha esbadellat, <br />
         tot belant juga el ramat <br />
         amb la rossa macaruia. <br /><br />
-
         Al·leluia, cor lassat! <br />
         Al·leluia, món gebrat! <br />
         Al·leluia, Déu és nat! <br />
         Al·leluia! <br /><br />
-
         Cap herbei té tenebror, <br />
         ni cap déu fa el ploricó; <br />
         no hi ha fred ni tremolor, <br />
@@ -25,12 +23,10 @@ const Poem = () => (
         Al·leluia en tot dolor! <br />
         Al·leluia al pecador! <br />
         Al·leluia! <br /><br />
- 
         A Betlem van els infants <br />
         i els amics dant-se les mans <br />
         i els promesos i els germans <br />
         i la vella en sa capuia! <br /><br />
-
         Al·leluia, vianants! <br />
         Al·leluia en nostres cants! <br />
         Al·leluia, catalans! <br />
