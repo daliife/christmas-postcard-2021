@@ -4,7 +4,7 @@ import "atropos/atropos.css";
 import "./Postcard.css";
 
 const Postcard = () => (
-  <div className="container">
+  <div className="px-8">
     <Atropos
       className="atropos-banner"
       highlight={false}
