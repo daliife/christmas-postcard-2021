@@ -1,9 +1,9 @@
 import Atropos from "atropos/react/atropos-react.esm";
 import "atropos/atropos.css";
-import "./MyImage.css";
 
+import "./Postcard.css";
 
-const MyImage = () => (
+const Postcard = () => (
   <div className="container">
     <Atropos
       className="atropos-banner"
@@ -49,4 +49,4 @@ const MyImage = () => (
   </div>
 );
 
-export default MyImage;
+export default Postcard;
