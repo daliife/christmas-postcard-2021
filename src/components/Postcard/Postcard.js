@@ -4,11 +4,11 @@ import "atropos/atropos.css";
 import "./Postcard.css";
 
 const Postcard = () => (
-  <div className="px-8">
+  <div className="p-8 lg:px-0 mx-auto">
     <Atropos
       className="atropos-banner"
       highlight={false}
-      onEnter={() => console.log("enter")}
+      // onEnter={() => console.log("enter")}
     >
       <img
         className="atropos-banner-spacer"

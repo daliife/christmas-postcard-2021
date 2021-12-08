@@ -9,7 +9,7 @@ function App() {
       <div className="col-span-12 lg:col-span-7 flex items-center">
         <Postcard />
       </div>
-      <div className="col-span-12 lg:col-span-5 flex items-center">
+      <div className="col-span-12 lg:col-span-5 flex items-center mb-24 lg:mb-0">
         <Poem />
       </div>
       <Song></Song>
