@@ -1,9 +1,9 @@
 import "./Poem.css";
 
 const Poem = () => (
-  <div id="poem-container" className="mx-auto lg:mx-8 text-white">
-    <h3 className="font-semibold text-2xl mt-4 mb-5">El rústec villancet</h3>
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+  <div id="poem-container" className="mx-auto mt-5 md:mt-0 md:mx-8 text-white">
+    <h3 className="font-semibold text-3xl mt-4 mb-5">El rústec villancet</h3>
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
       <p className="text-lg font-light leading-8">
         Una estrella cau al prat, <br />
         una flor s’ha esbadellat, <br />
@@ -16,7 +16,7 @@ const Poem = () => (
         Cap herbei no té tremor, <br />
         ni cap deu fa el ploricó; <br />
         no hi ha fred ni tenebror, <br />
-        que un pas d’ala se n’ho duia. <br />
+        que un pas d’ala se n’ho duia.
       </p>
       <p className="text-lg font-light leading-8">
         Al·leluia en tot racó! <br />
