@@ -13,9 +13,9 @@ const Poem = () => (
         Al·leluia, món gebrat! <br />
         Al·leluia, Déu és nat! <br />
         Al·leluia! <br /><br />
-        Cap herbei té tenebror, <br />
-        ni cap déu fa el ploricó; <br />
-        no hi ha fred ni tremolor, <br />
+        Cap herbei no té tremor, <br />
+        ni cap deu fa el ploricó; <br />
+        no hi ha fred ni tenebror, <br />
         que un pas d’ala se n’ho duia. <br />
       </p>
       <p className="text-lg font-light leading-8">
@@ -26,7 +26,7 @@ const Poem = () => (
         A Betlem van els infants <br />
         i els amics dant-se les mans <br />
         i els promesos i els germans <br />
-        i la vella en sa capuia! <br /><br />
+        i la vella en sa capuia. <br /><br />
         Al·leluia, vianants! <br />
         Al·leluia en nostres cants! <br />
         Al·leluia, catalans! <br />
@@ -34,7 +34,7 @@ const Poem = () => (
       </p>
     </div>
     <p className="w-full text-right my-4 italic text-base font-semibold">
-      Josep Carner
+      Josep Carner - Lluís M. Millet
     </p>
   </div>
 );
