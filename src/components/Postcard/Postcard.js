@@ -1,10 +1,10 @@
 import Atropos from "atropos/react/atropos-react.esm";
 import "atropos/atropos.css";
 
-import blurredBackground from  "../../assets/background2.png";
-import mountains from  "../../assets/mountain.png";
-import leaf from  "../../assets/leaf.png";
-import text from  "../../assets/text.png";
+import sky from  "../../assets/sky.png";
+import mountain1 from  "../../assets/mountains1.png";
+import mountain2 from  "../../assets/mountains2.png";
+import text from  "../../assets/text1.png";
 import text2 from  "../../assets/text2.png";
 
 import "./Postcard.css";
@@ -18,23 +18,23 @@ const Postcard = () => (
     >
       <img
         className="atropos-banner-spacer"
-        src={blurredBackground}
+        src={sky}
         alt="background 1"
       />
       <img
         data-atropos-offset="-4.5"
-        src={blurredBackground}
+        src={sky}
         alt="background 2"
       />
       <img
         data-atropos-offset="-3"
-        src={mountains}
+        src={mountain2}
         alt="mountain"
       />
       <img
         data-atropos-offset="-1"
-        src={leaf}
-        alt="leaf"
+        src={mountain1}
+        alt="mountain"
       />
       <img
         data-atropos-offset="1"
