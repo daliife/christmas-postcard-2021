@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/christmas-postcard-2021/static/css/main.0dc99c0f.chunk.css",
-    "main.js": "/christmas-postcard-2021/static/js/main.a4ff2488.chunk.js",
-    "main.js.map": "/christmas-postcard-2021/static/js/main.a4ff2488.chunk.js.map",
+    "main.css": "/christmas-postcard-2021/static/css/main.fe2ad97f.chunk.css",
+    "main.js": "/christmas-postcard-2021/static/js/main.616c63ab.chunk.js",
+    "main.js.map": "/christmas-postcard-2021/static/js/main.616c63ab.chunk.js.map",
     "runtime-main.js": "/christmas-postcard-2021/static/js/runtime-main.af082566.js",
     "runtime-main.js.map": "/christmas-postcard-2021/static/js/runtime-main.af082566.js.map",
     "static/css/2.943b4108.chunk.css": "/christmas-postcard-2021/static/css/2.943b4108.chunk.css",
@@ -10,20 +10,20 @@
     "static/js/2.a01427c4.chunk.js.map": "/christmas-postcard-2021/static/js/2.a01427c4.chunk.js.map",
     "index.html": "/christmas-postcard-2021/index.html",
     "static/css/2.943b4108.chunk.css.map": "/christmas-postcard-2021/static/css/2.943b4108.chunk.css.map",
-    "static/css/main.0dc99c0f.chunk.css.map": "/christmas-postcard-2021/static/css/main.0dc99c0f.chunk.css.map",
+    "static/css/main.fe2ad97f.chunk.css.map": "/christmas-postcard-2021/static/css/main.fe2ad97f.chunk.css.map",
     "static/js/2.a01427c4.chunk.js.LICENSE.txt": "/christmas-postcard-2021/static/js/2.a01427c4.chunk.js.LICENSE.txt",
     "static/media/El_rustec_villancet.78d2dc0a.mp3": "/christmas-postcard-2021/static/media/El_rustec_villancet.78d2dc0a.mp3",
-    "static/media/background2.60f51bf2.png": "/christmas-postcard-2021/static/media/background2.60f51bf2.png",
-    "static/media/leaf.023b54cd.png": "/christmas-postcard-2021/static/media/leaf.023b54cd.png",
-    "static/media/mountain.2e0f3d6c.png": "/christmas-postcard-2021/static/media/mountain.2e0f3d6c.png",
-    "static/media/text.268bf5fd.png": "/christmas-postcard-2021/static/media/text.268bf5fd.png",
-    "static/media/text2.e02f7ade.png": "/christmas-postcard-2021/static/media/text2.e02f7ade.png"
+    "static/media/mountains1.365f15ce.png": "/christmas-postcard-2021/static/media/mountains1.365f15ce.png",
+    "static/media/mountains2.486b083b.png": "/christmas-postcard-2021/static/media/mountains2.486b083b.png",
+    "static/media/sky.bb193907.png": "/christmas-postcard-2021/static/media/sky.bb193907.png",
+    "static/media/text1.3dde5593.png": "/christmas-postcard-2021/static/media/text1.3dde5593.png",
+    "static/media/text2.fe04f825.png": "/christmas-postcard-2021/static/media/text2.fe04f825.png"
   },
   "entrypoints": [
     "static/js/runtime-main.af082566.js",
     "static/css/2.943b4108.chunk.css",
     "static/js/2.a01427c4.chunk.js",
-    "static/css/main.0dc99c0f.chunk.css",
-    "static/js/main.a4ff2488.chunk.js"
+    "static/css/main.fe2ad97f.chunk.css",
+    "static/js/main.616c63ab.chunk.js"
   ]
 }
