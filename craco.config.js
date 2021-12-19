@@ -8,4 +8,13 @@ module.exports = {
         ],
       },
     },
+    theme: {
+      extend: {
+        colors: {
+          primary: '#5c130c',
+          secondary: '#5c130c',
+          tertiary: '#5c130c',
+        }
+      }
+    }
   }

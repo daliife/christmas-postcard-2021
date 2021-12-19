@@ -10,7 +10,6 @@ body {
 
 body {
   background-image: linear-gradient(to bottom, #333333, #000000);
-  /* background-image: linear-gradient(to right, #2C75CF, #173c69); */
   display: flex;
   flex-direction: column;
   align-items: center;

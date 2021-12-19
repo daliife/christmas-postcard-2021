@@ -4,8 +4,8 @@
 .atropos-banner:hover { cursor: pointer; }
 .atropos-banner .atropos-inner {
   border-radius: 25px;
-  border: 5px solid #017FFF;
   border: 5px solid white;
+  /* border: 5px solid #5c130c; */
 }
 .atropos-banner img {
   position: absolute;

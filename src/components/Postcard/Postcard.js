@@ -6,15 +6,15 @@ import mountain1 from  "../../assets/mountains1.png";
 import mountain2 from  "../../assets/mountains2.png";
 import text from  "../../assets/text1.png";
 import text2 from  "../../assets/text2.png";
+import leaf from  "../../assets/leaf.png";
 
 import "./Postcard.css";
 
 const Postcard = () => (
-  <div className="p-8 lg:px-14 mx-auto">
+  <div className="px-8 md:px-10 lg:px-14 lg:pr-4 mx-auto max-w-sm md:max-w-lg lg:max-w-3xl">
     <Atropos
       className="atropos-banner"
       highlight={false}
-      // onEnter={() => console.log("enter")}
     >
       <img
         className="atropos-banner-spacer"
@@ -37,6 +37,11 @@ const Postcard = () => (
         alt="mountain"
       />
       <img
+        data-atropos-offset="0"
+        src={leaf}
+        alt="text"
+      />
+      <img
         data-atropos-offset="1"
         src={text2}
         alt="text"
@@ -46,41 +51,6 @@ const Postcard = () => (
         src={text}
         alt="text"
       />
-      {/* <img
-        className="atropos-banner-spacer"
-        src="https://raw.githubusercontent.com/nolimits4web/atropos/master/playground/react/i/atropos-bg.svg"
-        alt=""
-      />
-      <img
-        data-atropos-offset="-4.5"
-        src="https://raw.githubusercontent.com/nolimits4web/atropos/master/playground/react/i/atropos-bg.svg"
-        alt=""
-      />
-      <img
-        data-atropos-offset="-2.5"
-        src="https://raw.githubusercontent.com/nolimits4web/atropos/master/playground/react/i/atropos-mountains.svg"
-        alt=""
-      />
-      <img
-        data-atropos-offset="0"
-        src="https://raw.githubusercontent.com/nolimits4web/atropos/master/playground/react/i/atropos-forest-back.svg"
-        alt=""
-      />
-      <img
-        data-atropos-offset="2"
-        src="https://raw.githubusercontent.com/nolimits4web/atropos/master/playground/react/i/atropos-forest-mid.svg"
-        alt=""
-      />
-      <img
-        data-atropos-offset="4"
-        src="https://raw.githubusercontent.com/nolimits4web/atropos/master/playground/react/i/atropos-forest-front.svg"
-        alt=""
-      />
-      <img
-        data-atropos-offset="5"
-        src="https://raw.githubusercontent.com/nolimits4web/atropos/master/playground/react/i/atropos-logo-en.svg"
-        alt=""
-      /> */}
     </Atropos>
   </div>
 );
