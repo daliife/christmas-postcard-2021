@@ -1,6 +1,8 @@
 import Atropos from "atropos/react/atropos-react.esm";
 import "atropos/atropos.css";
 
+import "./Postcard.css";
+
 import sky from  "../../assets/sky.png";
 import mountain1 from  "../../assets/mountains1.png";
 import mountain2 from  "../../assets/mountains2.png";
@@ -8,10 +10,8 @@ import text from  "../../assets/text1.png";
 import text2 from  "../../assets/text2.png";
 import leaf from  "../../assets/leaf.png";
 
-import "./Postcard.css";
-
 const Postcard = () => (
-  <div className="px-8 md:px-10 lg:px-14 lg:pr-4 mx-auto max-w-sm md:max-w-lg lg:max-w-3xl">
+  <div className="mt-10 md:mt-0 px-8 md:px-10 lg:px-14 lg:pr-4 mx-auto max-w-sm md:max-w-lg lg:max-w-3xl">
     <Atropos
       className="atropos-banner"
       highlight={false}
